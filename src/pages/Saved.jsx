@@ -1,0 +1,1 @@
+export default function Saved(){return <section className="section page center"><span>MY JOURNEY</span><h1>Saved places & trips.</h1><div className="empty"><b>♡</b><h3>Your collection is empty</h3><p>Explore India and save places you want to experience.</p></div></section>}
